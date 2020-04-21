@@ -1,0 +1,1 @@
+Primeiro commit, e tentativa de site HTML pra aprendizado de algumas coisas
